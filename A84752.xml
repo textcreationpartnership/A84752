@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foure strong castles taken by the Parliaments forces: with the copies of the severall articles, and letters of the particulars thereof. 1 Titbury Castle (in Staffordshire) taken by Sir William Brereton, with all the armes and ammunition. 2 Dunster Castle (in the west) taken by Col. Blake, with all the armes, ammunition, and other furniture of warre. 3 The copie of the articles for the surrender of Barnstaple, with all the ordnance, ammunition, bag and baggage. 4. Abarstwith Castle (in Wales) taken by Col. Powell, with all their armes, ammunition, bag and baggage. Also the agreement for the sleighting of Barton Garrison in Derbishire neere Titbury, and Sir VVilliam Breretons proceedings against Lichfield Close, with the copie of a letter from Sir VVilliam Breretons quarters. Being the true copies of the originals, published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84752</idno>
+            <idno type="STC">Wing F1672</idno>
+            <idno type="STC">Thomason E334_8</idno>
+            <idno type="STC">ESTC R200764</idno>
+            <idno type="EEBO-CITATION">99861424</idno>
+            <idno type="PROQUEST">99861424</idno>
+            <idno type="VID">113559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113559)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E334[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Foure strong castles taken by the Parliaments forces: with the copies of the severall articles, and letters of the particulars thereof. 1 Titbury Castle (in Staffordshire) taken by Sir William Brereton, with all the armes and ammunition. 2 Dunster Castle (in the west) taken by Col. Blake, with all the armes, ammunition, and other furniture of warre. 3 The copie of the articles for the surrender of Barnstaple, with all the ordnance, ammunition, bag and baggage. 4. Abarstwith Castle (in Wales) taken by Col. Powell, with all their armes, ammunition, bag and baggage. Also the agreement for the sleighting of Barton Garrison in Derbishire neere Titbury, and Sir VVilliam Breretons proceedings against Lichfield Close, with the copie of a letter from Sir VVilliam Breretons quarters. Being the true copies of the originals, published according to order of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbancke at Grayes Inne Gate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Aprill 27. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113559:1"/>
+            <pb facs="tcp:113559:1" rendition="simple:additions"/>
+            <p>Foure ſtrong Caſtles TAKEN By the Parliaments Forces: with the Copies of the ſeverall Articles, and Letters of the Particulars thereof.</p>
+            <list>
+               <item>1 Titbury Caſtle (in Staffordſhire) taken by Sir <hi>William Brereton,</hi>with all the Armes and Ammunition.</item>
+               <item>2 Dunſter Caſtle (in the Weſt) taken by Col. <hi>Blake,</hi> with all the Armes, Ammunition, and other furniture of warre.</item>
+               <item>3 The copie of the Articles for the ſurrender of Barnſtaple, with all the Ordnance, Ammunition, bag and baggage.</item>
+               <item>4 Abaraſtwith Caſtle (in Wales) taken by Col. <hi>Powell,</hi> with all their Armes, Ammunition, bag and baggage.</item>
+            </list>
+            <p>ALSO The Agreement for the ſleighting of Barton Garriſon in Derbiſhire neere Titbury, and Sir <hi>VVilliam Breretons</hi> proceedings againſt Lichfield Cloſe, with the copie of a Letter from Sir <hi>VVilliam Breretons</hi> Quarters.</p>
+            <p>
+               <hi>Being the true Copies of the Originals, pub<g ref="char:EOLhyphen"/>liſhed according to Order of Parliament.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matthew Walbancke</hi> at Grayes Inne Gate. Aprill 27. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:113559:2"/>
+            <pb n="1" facs="tcp:113559:2"/>
+            <head>Articles of Agreement betweene Sir <hi>Thomas Fairfax</hi> Knight, Generall of the Parliaments Army, and Sir <hi>Allen Apſley</hi> Knight, Governour of the Garriſon of Barnſtaple, as fol<g ref="char:EOLhyphen"/>loweth.</head>
+            <list>
+               <item>I THat all Officers and Souldiers, without exception of any per<g ref="char:EOLhyphen"/>ſons whatſoever, and all other per<g ref="char:EOLhyphen"/>ſons within the Garriſon and Forts, may have leave to march forth both Horſe and Foot, with their compleat Arms, flying Colours, Matches ligh<g ref="char:EOLhyphen"/>ted, with their Muskets laden, and twelve ſhot apiece in their Banda<g ref="char:EOLhyphen"/>liers, with the like proportion to the
+<pb n="2" facs="tcp:113559:3"/>Troopers, for their Carbines, and Pi<g ref="char:EOLhyphen"/>ſtolls, to any Garriſon in England, where His Majeſty ſhall bee in per<g ref="char:EOLhyphen"/>ſon, and that they ſhall have a ſafe Conduct to the ſame and free quar<g ref="char:EOLhyphen"/>ter in their March, and be not forced to march above ten miles a day.</item>
+               <item>II. That in caſe they ſhal not be received by the King, they ſhall have free leave to paſſe quietly to their owne homes.</item>
+               <item>III. That no Gentlemen, Clergie<g ref="char:EOLhyphen"/>men, Officers, Citizens, or Souldi<g ref="char:EOLhyphen"/>ers, or other perſons comprized with<g ref="char:EOLhyphen"/>in theſe Articles, ſhall bee queſtioned or accountable for any Act paſt, or by them done, or by any other by their procurement, relating unto the un<g ref="char:EOLhyphen"/>happy differences between His Ma<g ref="char:EOLhyphen"/>jeſtie, and the Parliament, they ſub<g ref="char:EOLhyphen"/>mitting
+<pb n="3" facs="tcp:113559:3"/>themſelves to reaſonable and moderate Compoſition for their e<g ref="char:EOLhyphen"/>ſtates, which the Generall Sir <hi>Thomas Fairfax</hi> ſhall really endeavour with the Parliament, that it ſhall not ex<g ref="char:EOLhyphen"/>ceed two yeares value of any mans re<g ref="char:EOLhyphen"/>all eſtate reſpectively, and for perſo<g ref="char:EOLhyphen"/>nall according to the ordinary rule, not exceeding the proportion afore<g ref="char:EOLhyphen"/>ſaid, which Compoſition being made they ſhall have indemnity for their perſons, and injoy their eſtates and all other imunities.</item>
+               <item>IV. That no Oath, Covenant, Proteſtation, or Subſcription (relating thereunto) ſhall be impoſed upon any perſon whatſoever comprized within theſe articles, but only ſuch as ſhall bind all perſons aforeſaid, not to beare armes againſt the Parliament of England now ſitting at Weſtminſter; nor wilfully do any act prejudiciall unto their
+<pb n="4" facs="tcp:113559:4"/>affaires, whilſt they remaine in their Quar<g ref="char:EOLhyphen"/>ters, except the perſons aforeſaid ſhall firſt render themſelves unto the Parliament, who ſhall cauſe them to be ſecured, if they think fit.</item>
+               <item>V. That all perſons comprized in theſe Arti<g ref="char:EOLhyphen"/>cles ſhall have leave to continue in the Par<g ref="char:EOLhyphen"/>liaments quarters for the ſpace of foure months, or to go beyond Sea at any time in the ſaid ſpace of foure months, with ſuch goods as they have now in their poſseſsion, both parties engaging themſelves as before.</item>
+               <item>VI. That any Officers, or others comprized in theſe Articles, not exceeding the number of eight perſons, ſhall have free leave to go to Oxford, or to any other place where the King ſhall be, and to returne to their owne homes at any time, or where elſe they pleaſe.</item>
+               <item>VII. That all goods now in poſseſsion, or of right belonging to any within the Garriſon, may have a free protection for their ſafetie, and leave either to ſend them beyond the Seas, or to any place within the Kingdome,
+<pb n="5" facs="tcp:113559:4"/>within three months after the ſurrender of the ſame.</item>
+               <item>VIII. That the towne be not plundred, or fi<g ref="char:EOLhyphen"/>red, and that both they, and all other per<g ref="char:EOLhyphen"/>ſons comprized within theſe articles, ſhall enjoy the benefit of ſuch articles as were granted by the Generall to them at Exon.</item>
+               <item>IX. That ſuch goods as ſhall be remaining in either of the Forts at the ſurrender thereof, which belong to any in the towne, ſhall be reſtored to the ſeverall Owners.</item>
+               <item>X. That ſuch Priſoners of ours, belonging to the Garriſon, which have been taken ſince the beginning of the Siege, may be forthwith releaſed, and enjoy the benefit of theſe articles.</item>
+               <item>XI. That the Caſtle and towne, with all the Ordnance, ammunition, and other warlike proviſions therein, be ſurrendred to Sir THOMAS FAIRFAX, Generall of the Parliaments Army, or to whom he ſhall ap<g ref="char:EOLhyphen"/>poynt, on Tueſday the 14 of this inſtant April.</item>
+               <item>
+                  <pb n="6" facs="tcp:113559:5"/>
+XII. That the Fort with the Ordnance, am<g ref="char:EOLhyphen"/>munition, ſpare armes, and all other war<g ref="char:EOLhyphen"/>like proviſions therein, be ſurrendred to Sir THOMAS FAIRFAX, Generall of the Parliaments Army, or to whom he ſhall ap<g ref="char:EOLhyphen"/>poynt, on Munday the 20 of this Inſtant, by twelve of the clock at Noone.</item>
+               <item>XIII. That there be a Ceſſation of armes during theſe eight dayes following; the Souldiers of both ſides continuing within the limits agreed between Sir Allen Apſley, and Liev<g ref="char:EOLhyphen"/>tenant Colonell Aſhfield: and that ſuch Souldiers as ſhall come away during the eight dayes, ſhall not be entertained, but may be ſent back againe.</item>
+               <item>XIV. That the ſick and wounded Souldiers belonging to Sir Allen Apſley, may have li<g ref="char:EOLhyphen"/>bertie to continue in their Quarters at Barn<g ref="char:EOLhyphen"/>ſtaple, till they recover their health, care be<g ref="char:EOLhyphen"/>ing taken for them on that behalfe, and then to have Paſſes to returne to their Colours, or to their homes, at their choyce.</item>
+            </list>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:113559:5"/>
+            <head>The Copy of a Letter from Sir <hi>William Breretons</hi> Quarters, of the agreement for the ſurrendering of Tytbury Caſtle in Staffordſhire, to Sir <hi>William Brereton,</hi> for the uſe and ſervice of the Parliament.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>IN my laſt I gave you accompt how far we had proceeded againſt the Enemy in <hi>Litchfield</hi> Clo<g ref="char:EOLhyphen"/>ſes, and gave you the Copies of our Summons, and their Anſwers, and the manner of our play<g ref="char:EOLhyphen"/>ing againſt them with our Peeces, upon their refu<g ref="char:EOLhyphen"/>ſall to ſurrender, our Line and Fortifications being all finiſhed, we ſhall, it is hoped, in ſhort time bring them to a reducement, our controverſie is already over, Tytburie cannot any more obſtruct us: I have ſent you the Copy of the Articles of Agreement for the ſurrender thereof; it was thought fit to give them theſe Conditions for many reaſons, without which they would, as well they might, have held out as long as any of their holds in thoſe parts: and divers of them, if I miſtake not, are of thoſe who have already the right of Aſhby-de-la-Zouch Articles, from whence they came: Others of them are deſi<g ref="char:EOLhyphen"/>rous to live quietly for the future, and we have all our men there at liberty for other ſervices; had we ſtormed the Caſtle we might have loſt many of our men, much gallant bloud might have been ſpilt in ſuch a knotty peice of ſervice; and thoſe who were in the Caſtle, will finde that all the bene<g ref="char:EOLhyphen"/>fit they can make of the conditions they have gai<g ref="char:EOLhyphen"/>ned to be very little, only that they may live in peace and quiet (if they will) the only thing we fight for in our Countries behalfe; and we are to
+<pb n="8" facs="tcp:113559:6"/>agitate another deſigne, which I hope we ſhall be able to effect, which may be of great uſe to theſe parts, whereof I ſhall give you accompt in my next (God willing;) I doe beleeve that when the enemy here have certain information of Sir <hi>Yhomas Fair<g ref="char:EOLhyphen"/>faxes</hi> being before Oxford, they will be more wil<g ref="char:EOLhyphen"/>ling to hearken to us; in the meane time we have played often upon them, and have received infor<g ref="char:EOLhyphen"/>mation of ſome execution. The Country are very joyfull that they are freed from the great oppreſſi<g ref="char:EOLhyphen"/>ons they have long ſuffered under the power of the Tytbury Garriſon.</p>
+            <closer>
+               <dateline>Litchfield <date>the 22. of April, 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="treaty">
+            <head>Articles agreed upon for ſurrender of the Garriſon of the Caſtle of <hi>Tytburie</hi> for the Service of the Par<g ref="char:EOLhyphen"/>liament, <hi>April</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. 1646.</head>
+            <list>
+               <item>1 THat all the Fortifications in and about the Caſtle of Tytburie be ſleighted, and the Houſe made incapable of being made a Ga<g ref="char:EOLhyphen"/>riſon, and delivered into the hands of them, who had the keeping thereof in times of peace: And that Barton Garriſon be alſo ſleighted in like man<g ref="char:EOLhyphen"/>ner, ſo ſoone as poſſible, and delivered to the late Ow<g ref="char:EOLhyphen"/>ner thereof, he making his peace with the Parlia<g ref="char:EOLhyphen"/>ment.</item>
+               <item>2 That all Commanders, Gentlemen and Officers, in Commiſſion, may march away mith their Horſes and Arms, and their own proper goods; and the Common Souldiers with their Swords, and Arms, and proper goods, to any of the Kings Garriſons unbeſieged, they
+<pb n="9" facs="tcp:113559:6"/>marching eight miles a day, and Carriages to be provi<g ref="char:EOLhyphen"/>ded accordingly. And all thoſe that deſired, may have liberty to live at home, and enjoy their Eſtates, ſubmit<g ref="char:EOLhyphen"/>ting to the Ordinance of Parliament; and to be ſecu<g ref="char:EOLhyphen"/>red in their perſons and Eſtates from violence and plunder.</item>
+               <item>3 That all Officers and Souldiers that deſire to goe beyond Seas, may have liberty ſo to do; Provided it be within ſixe weeks time next enſuing, and in the interim be protected, doing nothing prejudiciall to the Parlia<g ref="char:EOLhyphen"/>ment, and no Oath to be impoſed, hut an ingagement never to beare Arms againſt the Parliament.</item>
+               <item>4 That all that deſire their Sequeſtrations taken off may have liberty to go to compound with the Parlia<g ref="char:EOLhyphen"/>ment, and to have three moneths time for that purpoſe without interruption. And after Compoſitions made, and Pardons ſued out, they may have liberty to diſpoſe of their Eſtates as freely as formerly.</item>
+               <item>5 That the ſleighting of the ſaid Garriſons ſhall be begun to morrow, or upon Wedneſday next, and that all thoſe that are to march from the ſaid Caſtle, according to the aforeſaid Articles, ſhall begin their march upon Wedneſday next.</item>
+            </list>
+            <closer>
+               <signed>Signed by Sir <hi>William Brereton,</hi> and the Commiſſioners for the Parliament.
+<list>
+                     <item>John Bowyer,</item>
+                     <item>Henry Pernon.</item>
+                  </list>
+               </signed>
+               <signed>Signed by the Governours and Commiſſioners of the Caſtle.
+<list>
+                     <item>Peter Kniveton,</item>
+                     <item>John Fitzherbert,</item>
+                     <item>John Ger<g ref="char:EOLhyphen"/>rard,</item>
+                     <item>William Browne.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:113559:7"/>
+            <head>The Copy of a Letter from Major Generall <hi>Laughorns</hi> Quarters.</head>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>THough we have laine long before Abaruſtwith Caſtle, which is a place of great ſtrength, yet it hath pleaſed God now at laſt to give it into our hands; I have ſent you here incloſed the Copy of the Articles of Agreement between Colonell <hi>Rice Powell,</hi> and Col. <hi>Ro. Whitney</hi> for the ſurrender ther<g ref="char:EOLhyphen"/>of: when you read then you will finde we have gai<g ref="char:EOLhyphen"/>ned good tearmes from them, ſo that now we are ready to be put into a capaſſity for further ſervice, either for Carnarven, or to aſſiſt againſt Ragland, or what other ſervice ſhall be thought meet if the Souldiers have but money.</p>
+            <closer>
+               <dateline>
+                  <date>Aprill 14. 1646.</date>
+               </dateline>
+               <signed>Your Servant. <hi>E. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:113559:7"/>
+            <head>For the Right Honourable the Committee of the Weſt.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>IT hath pleaſed God this day in the progreſſe of his mercy to the Weſt, to deliver up into the power of the Parliament the Caſtle of Dunſter, whereof (according to my duty) I have ſent you this ſhort accompt, together with a Copy of the Articles, being induced by the exemplary cle<g ref="char:EOLhyphen"/>mency of his Excellency Sir <hi>Thomas Fairfax,</hi> al<g ref="char:EOLhyphen"/>though probably it might have been obtained upon other termes; if the price of time and bloud had not prevailed above other Arguments. The place is ſtrong, and of importance for the paſſe of Ireland, and may in due time deſerve your honours conſide<g ref="char:EOLhyphen"/>rations, whereto I leave it, and remaine</p>
+            <closer>
+               <dateline>Tanton <date>21. of April, 1646.</date>
+               </dateline>
+               <signed>Yours Honours moſt humble Seruant: <hi>Rob. Blake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="treaty">
+            <pb n="12" facs="tcp:113559:8"/>
+            <list>
+               <head>Articles agreed upon by, and between Sir <hi>Robert Blake,</hi> Governour of Tanton, and Colonell <hi>Francis Wendham,</hi> Governour of Dunſter Caſtle the 19. of Aprill, 1646. for the ſurrendering of the ſaid Caſtle on Tueſday the 22. of Aprill following, by nine of the Clock in the morning.</head>
+               <item>I. THat the Caſtle, together with all the Armes, Ammunition, and other furniture of War, (except what is here under excepted) be delivered up into the hands of the ſaid Colonell <hi>Blake,</hi> for his Excellency Sir <hi>Thomas Fairfax,</hi> to the uſe of the King and Parliament.</item>
+               <item>II. That all Commiſſioners, Officers in the Caſtle, ſhall march away with Horſes and Armes, and all other neceſſary accouterments appertaining.</item>
+               <item>III. That the common Officers and Souldiers, both Horſe and Foot ſhall march away with their Armes, and either three Charges of Powder and Bullet, with three yards of Match for thoſe that have match-lockes, together with Colours and Drums.</item>
+               <item>IV. That the ſaid Colonell <hi>Windham</hi> ſhall carry with him all that is properly his, and what doth pro<g ref="char:EOLhyphen"/>perly belong to the Lady <hi>Windham</hi> to be ſent to her.</item>
+               <item>V. That all Officers and Souldiers, with all par<g ref="char:EOLhyphen"/>ticular Perſons of the Caſtle ſhall march forth ſe<g ref="char:EOLhyphen"/>cure, as many as will to Oxford without delay,
+<pb n="13" facs="tcp:113559:8"/>and thoſe that are otherwiſe minded ſhall forth<g ref="char:EOLhyphen"/>with lay downe their Armes, and have Let-paſſes to their homes, or to any other places they ſhall deſire, with protections againſt the violence of the Souldiers.</item>
+               <item>VI. That Priſoners to either party be releaſed.</item>
+               <item>VII. That the ſaid Colonell <hi>Windham,</hi> and his Souldiers march to Oxford in twelve daies.</item>
+            </list>
+         </div>
+         <div type="treaty">
+            <list>
+               <head>Articles agreed on the 12. day of Aprill, 1646. between Col. <hi>Kice Powell,</hi> Commander in chiefe under Major Generall <hi>Laughorne</hi> there, and Colonell <hi>Robert Whitby,</hi> Governour of Abtriſt with the Caſtle.</head>
+               <item>I. That the Officers and Souldiers are to have 300. l. if their ſtock doe amount to ſo much, and that every Officer and Souldier give a Liſt of what monies he hath.</item>
+               <item>II. That for the certainty of the ſaid ſumme, ſix men are to be choſen by Col. <hi>Powell</hi> for the ſearch<g ref="char:EOLhyphen"/>ing of them.</item>
+               <item>III. That the Officers ſhall march with their Swords by their fides.</item>
+               <item>IV. That the common Souldiers ſhall march without Armes.</item>
+               <item>V. That Col. <hi>Wbitby</hi> ſhall withdraw the preſent Garriſon as ſoone as the botes are brought to re<g ref="char:EOLhyphen"/>ceive him.</item>
+               <item>VI. That the Colonell ſhall have Hoſtages for the ſame.</item>
+               <item>
+                  <pb n="14" facs="tcp:113559:9"/>
+VII. That the priſoners which belong to the Garriſon, and are now at Haverford-Weſt, or elſe where, be ſet at liberty and ſent with Paſſes after their Col. to Carnarthan.</item>
+               <item>VIII. That the Hoſtages left have civill uſage, and be ſent to Carnarhtan immediatly upon the re<g ref="char:EOLhyphen"/>turne of the Boats with ſafe Conduct.</item>
+               <item>IX. That the ſick men have civill accommoda<g ref="char:EOLhyphen"/>tion untill they be able to travell, and then with Paſſes be ſent after their fellowes, or to their owne Country.</item>
+               <item>X. That the Col. and five more in his Company, with their Horſes and Swords may have ſafe Con<g ref="char:EOLhyphen"/>duct to his Majeſty.</item>
+               <item>XI. That theſe Articles be inviolably obſerved, without fraud or equivocation, upon the honour of Souldiers.</item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Robert Whitley.</item>
+                     <item>Jo. Whitley.</item>
+                     <item>John Bellay.</item>
+                     <item>Miles Somner,</item>
+                     <item>Charles Hanghtley.</item>
+                     <item>Will. Vives.</item>
+                     <item>Iames Plot.</item>
+                     <item>Io. Wynne.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
